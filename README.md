@@ -189,21 +189,7 @@ Become a Software Engineer specializing in Python, AI, and Data Science while bu
 
 ---
 
-# 🏆 My Tech Journey
 
-```text
-2024  ██████████████░░░░ Started Programming
-
-2025  ██████████████████ Built Python Projects
-
-2025  ██████████████████ Learned Data Science
-
-2026  ██████████████████ Machine Learning
-
-2026  ██████████████████ Open Source Journey
-```
-
----
 
 # 📊 GitHub Analytics
 
@@ -212,62 +198,6 @@ Become a Software Engineer specializing in Python, AI, and Data Science while bu
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepikajanarthanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepikajanarthanan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Deepikajanarthanan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepikajanarthanan&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepikajanarthanan&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 💼 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/deepika-j-b012503a7">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="mailto:deepika524@wec.edu.in">
-
-<img src="https://img.shields.io/badge/Email-Deepika-blue?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://github.com/Deepikajanarthanan">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
 
 </div>
 
@@ -319,16 +249,6 @@ print("Keep Learning 🚀")
 
 ---
 
-<div align="center">
-
-## ⭐ Thank You for Visiting ⭐
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;Let's+Build+Amazing+Projects!;See+You+Again!+💙"/>
-
-</div>
-
----
-
 # 🏅 Achievements
 
 <div align="center">
@@ -351,18 +271,6 @@ print("Keep Learning 🚀")
 
 ---
 
-# 📅 2026 Roadmap
-
-| Goal | Status |
-|------|--------|
-| Master Python | 🟢 In Progress |
-| Improve Data Structures & Algorithms | 🟢 In Progress |
-| Learn Machine Learning | 🟢 In Progress |
-| Build Full Stack Projects | 🟡 Planned |
-| Contribute to Open Source | 🟡 Planned |
-| Software Engineering Internship | 🎯 Target |
-
----
 
 # 📚 Currently Exploring
 
@@ -423,10 +331,9 @@ If you enjoy my projects,
 
 <div align="center">
 
-## 🚀 Thanks for stopping by!
+## ⭐ Thank You for Visiting ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+---
 
-</div>
 
-</div>
+
