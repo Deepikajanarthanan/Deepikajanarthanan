@@ -189,20 +189,6 @@ Become a Software Engineer specializing in Python, AI, and Data Science while bu
 
 ---
 
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepikajanarthanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepikajanarthanan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📌 Current Goals
 
 🎯 Become a Software Engineer
@@ -325,15 +311,22 @@ If you enjoy my projects,
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</p >
+
+---
+
+# 🌟 Developer Mindset
+
+> "I believe every project is an opportunity to learn something new, improve my skills, and build solutions that make a difference."
 
 ---
 
 <div align="center">
 
-## ⭐ Thank You for Visiting ⭐
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Keep+Learning...;Keep+Building...;Keep+Growing...;Welcome+to+my+GitHub!"/>
 
 ---
-
 
 
